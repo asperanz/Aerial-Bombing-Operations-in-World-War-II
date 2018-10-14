@@ -1,2 +1,2 @@
-# R-Projects
-My personal projects developed using the R ecosystem
+# Aerial Bombing Operations in World War II
+Analyses on the Aerial Bombing Operations in World War II dataset
